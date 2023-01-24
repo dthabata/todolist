@@ -21,7 +21,7 @@ export const Profile: FC<IProfile> = (
         sx={{
           width: '96px',
           height: '96px',
-          backgroundColor: 'primary.main',
+          backgroundColor: '#726BFA',
           marginBottom: '16px',
         }}
       >

@@ -10,7 +10,7 @@ export const TaskArea: FC = (): ReactElement => {
       <Box mb={8} px={4}>
         <Typography
           variant="h6"
-          color="grey"
+          color="white"
           style={{ marginTop: '30px', marginLeft: '-34px' }}
         >
           Status of your tasks as on{' '}
