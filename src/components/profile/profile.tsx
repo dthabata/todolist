@@ -9,7 +9,6 @@ interface IProfile {
 export const Profile: FC<IProfile> = (
   props,
 ): ReactElement => {
-  //  Destructure props
   const { name = 'John' } = props;
   return (
     <Box
